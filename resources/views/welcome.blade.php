@@ -10,7 +10,7 @@
         <title></title>
 
       <div>
-        <label id="texto" style="color:#f55047;font-style: italic;font-family:Brush Script MT;font-size:60px">Catálogo Artísitco Digital de Jardim MS</label>
+        <label id="texto" style="color:#f55047;font-style: italic;font-family:Brush Script MT;font-size:60px">Catálogo Artístico Digital de Jardim MS</label>
         <img id="image" src="img/jardim.png" alt="Imagem de Fundo" />
       </div>
 
