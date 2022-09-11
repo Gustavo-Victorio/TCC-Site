@@ -1,0 +1,17 @@
+.image {
+    width: 100%;
+     }
+
+     h2 { 
+     position: absolute; 
+     top: 350px; 
+     left: 0; 
+     width: 100%;
+     text-align: center;
+     }
+
+     h2 span { 
+     color: white; 
+     font: bold 90px Helvetica; 
+     letter-spacing: 1px;  
+     }
