@@ -8,7 +8,7 @@
     <div class="d-flex justify-content-evenly mt-5">
 
 
-    <div class="card" style="width: 18rem;border-color:green;">
+    <div class="card" style="width: 25%;margin-left: 5px;border-color:green;">
         <img class="card-img-top" src="img/artistas/auguste_rodin.jpg" alt="Auguste Rodin" style="height: 20.875rem;">
         <div class="card-body" style="background-color:#2e2e2e">
           <h5 class="card-title" style="color:white;">Auguste Rodin</h5>
@@ -20,7 +20,7 @@
       </div>
 
 
-      <div class="card" style="width: 18rem;border-color:green">
+      <div class="card" style="width: 25%;margin-left: 5px;border-color:green">
         <img class="card-img-top" src="img/artistas/pablo_picasso.jpg" alt="Pablo Picasso" style="height: 20.875rem;">
         <div class="card-body" style="background-color:#2e2e2e">
           <h5 class="card-title" style="color:white;">Pablo Picasso</h5>
@@ -32,7 +32,7 @@
       </div>
 
 
-      <div class="card" style="width: 18rem;border-color:green">
+      <div class="card" style="width: 25%;margin-left: 5px;border-color:green">
         <img class="card-img-top" src="img/artistas/tarsila-amaral.jpg" alt="Tarsíla do Amaral" style="height: 20.875rem;">
         <div class="card-body" style="background-color:#2e2e2e">
           <h5 class="card-title" style="color:white;">Tarsíla do Amaral</h5>
@@ -44,7 +44,7 @@
       </div>
 
 
-      <div class="card" style="width: 18rem;border-color:green">
+      <div class="card" style="width: 25%;margin-left: 5px;border-color:green">
         <img class="card-img-top" src="img/artistas/candido-portinari.jpg" alt="Cândido Portinari" style="height: 20.875rem; ">
         <div class="card-body" style="background-color:#2e2e2e">
           <h5 class="card-title" style="color:white;">Cândido Portinari</h5>
